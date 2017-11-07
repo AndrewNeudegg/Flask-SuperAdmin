@@ -1,6 +1,12 @@
 Flask-SuperAdmin
 ================
 
+The author upgraded the source from python2 to python3 for evalution. Codebase works as advertised. Author recomends using flask-admin. 
+
+This is a fork of the original project (Flask-SuperAdmin), as such, much of this content was created by the lisence holders.
+
+
+--- 
 .. image:: https://badges.gitter.im/Join%20Chat.svg
    :alt: Join the chat at https://gitter.im/syrusakbary/Flask-SuperAdmin
    :target: https://gitter.im/syrusakbary/Flask-SuperAdmin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
