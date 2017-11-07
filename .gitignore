@@ -16,3 +16,7 @@ venv
 dist/*
 *.sqlite
 *.mo
+
+
+# Py2to3
+*.bak
